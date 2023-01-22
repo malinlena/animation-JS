@@ -5,6 +5,7 @@ gsap.to("#svg", {
   repeat: -1,
   yoyo: true,
 })
+
 gsap.to("#i", { opacity: 0, duration: 0.5, repeat: -1, yoyo: true })
 gsap.to("#l", { opacity: 0, duration: 0.6, repeat: -1, yoyo: true })
 gsap.to("#o", { opacity: 0, duration: 0.7, repeat: -1, yoyo: true })
